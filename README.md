@@ -98,9 +98,9 @@ You’ll also see a confidence percentage and a sleek prediction box in a dark-t
 ---
 ### 🖼️ Screenshots
 
-![App Screenshot](https://github.com/AdityaTagde/Olive_disease_detection/o1.png)
-![App Screenshot](https://github.com/AdityaTagde/Olive_disease_detection/o2.png)
-![App Screenshot](https://github.com/AdityaTagde/Olive_disease_detection/o3.png)
+![App Screenshot](https://github.com/AdityaTagde/Olive_disease_detection/blob/main/o1.png)
+![App Screenshot](https://github.com/AdityaTagde/Olive_disease_detection/blob/main/o2.png)
+![App Screenshot](https://github.com/AdityaTagde/Olive_disease_detection/blob/main/o3.png)
 
 ---
 
