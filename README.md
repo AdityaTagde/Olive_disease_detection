@@ -1,7 +1,5 @@
 ## 🪴 Olive Leaf Disease Detection using Deep Learning
 
-### 🌱 Overview
-
 This project is an AI-powered web application that detects **olive leaf diseases** from uploaded images.
 It uses a **Convolutional Neural Network (CNN)** trained on olive leaf datasets and a **Streamlit** front-end for real-time inference.
 
