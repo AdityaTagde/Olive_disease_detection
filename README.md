@@ -96,6 +96,17 @@ olive-leaf-disease-detection/
 You’ll also see a confidence percentage and a sleek prediction box in a dark-themed UI.
 
 ---
+### 🖼️ Screenshots
+
+#### 🧩 Application Interface
+![App Screenshot](https://github.com/AdityaTagde/Olive_disease_detection/o1.png)
+
+#### 🌿 Prediction Example
+![Prediction Screenshot](https://github.com/AdityaTagde/Olive_disease_detection/o2.png)
+
+![Prediction Screenshot](https://github.com/AdityaTagde/Olive_disease_detection/o3.png)
+
+---
 
 ### 🧩 Requirements
 
