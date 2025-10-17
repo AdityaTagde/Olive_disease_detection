@@ -45,7 +45,7 @@ The goal is to help farmers and agricultural researchers quickly identify and ma
 #### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/AdityaTagde/olive-leaf-disease-detection.git
+git clone https://github.com/AdityaTagde/Olive_disease_detection.git
 cd olive-leaf-disease-detection
 ```
 
